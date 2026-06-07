@@ -14,5 +14,8 @@ An interactive quiz game application that displays multiple-choice questions, co
 - CSS
 - JavaScript
 
+## Live Demo
+https://mohammednafi9720.github.io/SCT_WD_3/
+
 ## Author
 Mohammed Nafi E P
